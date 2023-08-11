@@ -1,1 +1,13 @@
+<!DOCTYPE html>
+<html language = english>
+<head>
+    <tittle>video</tittle>
+</head>
+<body>
+    <iframe width="460" height="500" src="pexels_videos_4097 (2160p).mp4" type="video">
+            </iframe>    
+            <p> <b><u><i>hello</i></u></b> friends howare you</p>
+            <a href="https://www.amazon.in/">test this link</a>
+</body>
+</html>
 
