@@ -1,0 +1,33 @@
+<p> <b><u><i>hello</i></u></b> friends howare you</p> <br><br>
+            <a href="https://www.amazon.in/">test this link</a> <br><br>
+
+
+            <style>
+            table,th,td{
+
+                border: 3px solid black;
+
+                } 
+
+            </style>
+            <table>
+                <tr>
+                    <th>bike</th>
+                    <th>car</th>
+                    <th>truck</th>
+
+                    <tr>
+                        <td>ktm</td>
+                        <td>audi</td>
+                        <td>ashok leyland</td>
+
+                    </tr>
+
+                    <tr>
+
+                    <td>apache</td>
+                    <td>ferrari</td>
+                    <td>elcher</td>
+                    </tr>
+                 
+
