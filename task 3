@@ -1,1 +1,61 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            
+            .button1{
+                background-color: #4CAF50; 
+                font-size: 30px;
+            }
+            
+            marquee{
+                color:black;
+                font-size:60px;
+               
+            }
+
+        </style>
+    </head>
+<body style="background-color: bisque; margin-left: 550px; "> 
+    
+
+<h1>HTML GOOGLE  FORM</h1>
+<form style="font-size: 25px;">
+  <label for="fname">First name:</label><br>
+  <input type="text" required><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" required><br>
+  <label for="email">email:</label><br>
+  <input type="email" required><br>
+  <label for="contact">contact:</label><br>
+  <input type="number" required><br><br>
+    <label for="date of Birth">Birthday:</label>
+<input type="date" required><br><br>
+
+
+<div class="form-group">
+    <label class="col-md-4 control-label">comments</label>
+        <div class="col-md-4 inputGroupContainer">
+        <div class="input-group">
+          <span class="input-group-addon"><i 
+            class="glyphicon glyphicon-pencil"></i></span>
+              <textarea class="form-control" 
+              name="comment" placeholder="comment">
+            </textarea>
+        </div>
+        </div>
+</div>
+      
+
+
+
+<input type="checkbox" required ><br><br>
+
+<button class="button1">Submit</button>
+</form> 
+<h1 ><marquee  direction="right">Welcome...</marquee></h1>
+
+</body>
+</html>
+
 
